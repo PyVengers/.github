@@ -30,7 +30,7 @@ We are **PyVengers**, a global community of Python enthusiasts and developers un
 
 ## 🛠️ Current Projects  
 - **[PyVengers-Assemble](https://github.com/PyVengers/PyVengers-Assemble)**: Our flagship project designed to welcome and onboard new members to the PyVengers community. This project focuses on collaboration, team building, and setting the stage for impactful contributions..  
-- **[Django-Boilerplate](#)**:  A versatile and ready-to-use Django project template. It provides a solid foundation for kickstarting Django applications, saving time on setup and focusing on building features.
+- **[Django-Boilerplate](https://github.com/PyVengers/Django-Boilerplate)**:  A versatile and ready-to-use Django project template. It provides a solid foundation for kickstarting Django applications, saving time on setup and focusing on building features.
 ---
 
 ## 🐍 PyVengers Assemble!  
